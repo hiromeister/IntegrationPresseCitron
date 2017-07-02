@@ -1,0 +1,42 @@
+.navbar-default ul li { display: inline;
+		padding-left: 20px; 
+		text-transform: uppercase;}
+
+.navbar-default ul li a {color:white;}
+
+.navbar-default { width: 1077px; 
+				  margin: 0 auto;
+				  background-color: #B5CE00;}
+
+h3 {font-style: 'Open Sans', sans-serif;  font-size: 23px;}
+/*
+.col-md-5 { padding: 0; }
+.col-md-4 {padding: 0;}*/
+
+.bandeau { background-color: #b5ce00; width: 100%; height: 40px; color: white;
+ text-align: left; text-transform: uppercase; font-size: 16px; padding-left: 9px; padding-top: 10px;
+ margin-top: 40px; }
+
+
+
+ 	
+
+ .col-md-3 {font-size: 12px; }
+
+ .col-md-8 img 	{ float:left;
+ 				  width: 290px; }
+
+.col-md-3 img {width: 90px; height: 90px;
+				float: left; padding-left: 1px;}
+
+h6 { font-size: 15px; font-weight: bold; }
+
+.titreApp {background-color: #B5CE00; height: 30px;}
+
+.social img { width: 50px; height: 50px; }
+
+.lol{background-color: #B5CE00; height: 30px;}
+ 
+.password {margin-left: 11px;}
+
+.lol p {margin:0 auto;}
